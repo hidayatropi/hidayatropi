@@ -15,20 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 **Currently Working On:** Developing web applications using Laravel and MySQL, focusing on building robust and scalable solutions.
+👨‍💻 **PHP Developer**: Specializing in Laravel and MySQL.
 
-🌱 **Currently Learning:** Exploring the integration of Laravel with ReactJS to enhance the frontend of web applications. Continuously improving skills in PHP programming.
+🌱 **Currently Learning**: Laravel + ReactJS.
 
-👯 **Looking to Collaborate On:** Open to collaborating on projects related to web development, especially those involving Laravel and ReactJS.
+👯 **Open to Collaboration**: Especially in Laravel and ReactJS projects.
 
-🤔 **Looking for Help With:** Seeking assistance and insights on best practices in Laravel and ReactJS development. Open to learning new approaches and techniques.
+🤔 **Seeking Help With**: Best practices in Laravel and ReactJS.
 
-💬 **Ask Me About:** Anything related to PHP programming, Laravel framework, MySQL database, or the integration of ReactJS with Laravel.
+💬 **Ask Me About**: PHP, Laravel, MySQL, ReactJS.
 
-📫 **How to Reach Me:** Feel free to connect with me on [LinkedIn](your_linkedin_profile) or drop me an email at [your_email@example.com](mailto:your_email@example.com).
+📫 **Contact**: Email: hidayatropi@gmail.com.
 
-😄 **Pronouns:** He/Him
+😄 **Pronouns**: He/Him.
 
-⚡ **Fun Fact:** I enjoy experimenting with different tech stacks and building side projects to explore new technologies.
+⚡ **Fun Fact**: Enjoys experimenting with new tech stacks.
+
+
 
 
